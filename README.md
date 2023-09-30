@@ -10,3 +10,8 @@
 
 ## promise.all => in promise
 
+## promise.any
+
+## promise.allsettle
+
+## promise.race
