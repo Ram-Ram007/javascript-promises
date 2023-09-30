@@ -15,3 +15,5 @@
 ## promise.allsettle
 
 ## promise.race
+
+## learned about async and await
