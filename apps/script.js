@@ -10,13 +10,6 @@ const tickectBook = new Promise((resolve,reject) => {
     
 })
 
-tickectBook.then(sucess)//then is used for the resolve
-.catch(failure)//catch is used for the reject.
+tickectBook.then(()=>console.log("Successfully booked tickect"))//then is used for the resolve
+.catch(() =>console.log("failed to book tickects"))//catch is used for the reject.
 
-function sucess(){
-    console.log("your tickect booked successvully")
-}
-
-function failure(){
-    console.log("failed to book tickect")
-}
