@@ -6,3 +6,7 @@
 
 ## learned about callback hell.
 
+## static methods on promises.
+
+## promise.all => in promise
+
